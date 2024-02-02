@@ -21,6 +21,7 @@
 *.smod
 
 # Compiled Static libraries
+*.DS_Store
 *.lai
 *.la
 *.a
